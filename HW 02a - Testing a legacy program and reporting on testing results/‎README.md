@@ -1,1 +1,1 @@
-[![build status of main](https://travis-ci.org/AkshayKumarTN/SSW-567.svg?branch=main)](https://travis-ci.org/AkshayKumarTN/SSW-567)
+[![build status of main](https://travis-ci.org/AkshayKumarTN/SSW-567.svg?branch=main)](https://travis-ci.org/AkshayKumarTN/SSW-567) 
